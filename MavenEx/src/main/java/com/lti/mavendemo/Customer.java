@@ -1,5 +1,4 @@
-pacakge com.lti.mavendemo;
-
+package com.lti.mavendemo;
 public class Customer
 {
 
